@@ -10,6 +10,8 @@ Each project lives in its own repository — linked below with a short descripti
 
 ### Knowledge Representation & Planning
 - **[warehouse-asp-planning](https://github.com/cyber-oasis-09/warehouse-asp-planning)** — Answer Set Programming (Clingo) encoding of a multi-robot warehouse planning domain; verified optimal plan via systematic debugging against a formal specification.
+- **[blocks-world-asp-planning](https://github.com/cyber-oasis-09/blocks-world-asp-planning)** — Answer Set Programming (Clingo) explorations of blocks-world planning: optimal planning, state enumeration, serializability, and weak-constraint cost optimization.
+- **[pizza-ontology-owl](https://github.com/cyber-oasis-09/pizza-ontology-owl)** — OWL ontology in Protégé modeling class hierarchies and restrictions, with automated classification via the FaCT++ Description Logic reasoner.
 
 ### Software & Systems Security
 *(will add links here as each project repo is created)*
@@ -17,6 +19,7 @@ Each project lives in its own repository — linked below with a short descripti
 ## Skills Demonstrated
 
 - Declarative problem solving (ASP / Clingo)
+- Knowledge representation (Description Logics / OWL)
 - Systematic debugging and formal verification against specification
 - Binary and network security analysis
 - Web application security testing
