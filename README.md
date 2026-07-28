@@ -26,7 +26,7 @@ Each project lives in its own repository — linked below with a short descripti
 
 ## Background
 
-First Lieutenant, Royal Oman Police, specializing in cybercrime investigation and digital forensics. Currently completing an MCS in Cybersecurity (ASU) and a Graduate Certificate in AI/ML.
+Specializing in cybercrime investigation and digital forensics. Currently completing an MCS in Cybersecurity (ASU) and a Graduate Certificate in AI/ML.
 
 ---
 
