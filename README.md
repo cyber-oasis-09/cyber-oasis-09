@@ -16,7 +16,7 @@ Each project lives in its own repository — linked below with a short descripti
 
 ### Software & Systems Security
 
-- [steganography-cryptanalysis](https://github.com/cyber-oasis-09/steganography-cryptanalysis) — Byte-level LSB steganography for hiding data inside bitmap images, paired with a known-plaintext cryptanalysis attack recovering a DES key from a time-seeded PRNG weakness.
+- [Steganography-and-Cryptanalysis-Project](https://github.com/cyber-oasis-09/Steganography-and-Cryptanalysis-Project) — Byte-level LSB steganography for hiding data inside bitmap images, paired with a known-plaintext cryptanalysis attack recovering a DES key from a time-seeded PRNG weakness.
 
 ## Skills Demonstrated
 
