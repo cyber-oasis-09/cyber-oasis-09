@@ -18,6 +18,7 @@ Each project lives in its own repository — linked below with a short descripti
 
 * [Steganography-and-Cryptanalysis-Project](https://github.com/cyber-oasis-09/Steganography-and-Cryptanalysis-Project) — Byte-level LSB steganography for hiding data inside bitmap images, paired with a known-plaintext cryptanalysis attack recovering a DES key from a time-seeded PRNG weakness.
 * [diffie-hellman-aes-encryption](https://github.com/cyber-oasis-09/diffie-hellman-aes-encryption) — C#/.NET Diffie-Hellman key agreement over a 256-bit modulus feeding AES-256 encryption and decryption; arbitrary-precision key derivation verified byte-for-byte against the specification.
+* [rsa-extended-euclidean-csharp](https://github.com/cyber-oasis-09/rsa-extended-euclidean-csharp) — C#/.NET RSA encryption and decryption over 200+ bit primes, with the private exponent computed by a hand-written Extended Euclidean algorithm; verified against the specification and the autograder.
 * [md5-birthday-attack](https://github.com/cyber-oasis-09/md5-birthday-attack) — C#/.NET salted MD5 hashing with a birthday-attack collision search on a truncated 40-bit hash; demonstrates why salting stops rainbow tables but not collisions.
 
 ## Skills Demonstrated
@@ -25,7 +26,7 @@ Each project lives in its own repository — linked below with a short descripti
 * Declarative problem solving (ASP / Clingo)
 * Knowledge representation (Description Logics / OWL)
 * Systematic debugging and formal verification against specification
-* Applied cryptography (Diffie-Hellman key exchange, AES, hashing and salting, cryptanalysis)
+* Applied cryptography (Diffie-Hellman key exchange, RSA, AES, hashing and salting, cryptanalysis)
 * Binary and network security analysis
 * Web application security testing
 
